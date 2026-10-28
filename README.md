@@ -11,7 +11,7 @@ separately and remains private; this repository does not contain that source.
 | macOS Apple Silicon | [DMG](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/latest/download/PDF-Cabin-macOS-arm64.dmg) |
 | macOS Intel | [DMG](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/latest/download/PDF-Cabin-macOS-x64.dmg) |
 | Linux x64 | [AppImage](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/latest/download/PDF-Cabin-Linux-x86_64.AppImage) |
-| Android 10+ | [Signed APK 0.3.3](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/android-v0.3.3/PDF-Cabin-Android.apk) |
+| Android 10+ | [Signed APK 0.3.4](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/android-v0.3.4/PDF-Cabin-Android.apk) |
 | iPhone / iPad | [Free Home Screen installation](https://pdf-cabin.pages.dev/app/?install=ios) |
 
 [Use online](https://pdf-cabin.pages.dev/app/) ·
