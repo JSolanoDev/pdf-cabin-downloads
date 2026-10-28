@@ -1,5 +1,10 @@
 # PDF Cabin user guide
 
+In the online workspace, hold **Ctrl** and drag with the left mouse button over the PDF to move around a
+zoomed page. The hand cursor indicates panning. Release the button or Ctrl, or
+press Escape, to stop. Panning changes only the viewport; it does not move PDF
+objects or add an Undo step. Text-entry fields keep their normal mouse behavior.
+
 [Back to the project](../README.md)
 
 ## Online edition
