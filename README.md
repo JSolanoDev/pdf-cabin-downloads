@@ -8,7 +8,7 @@ separately and remains private; this repository does not contain that source.
 | Platform | Download |
 | --- | --- |
 | Windows x64 | [Installer 0.3.4](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/windows-v0.3.4/PDF-Cabin-Windows-x64.exe) |
-| macOS Apple Silicon | [DMG 0.3.3](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/v0.3.3/PDF-Cabin-macOS-arm64.dmg) |
+| macOS Apple Silicon | [DMG 0.3.4](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/macos-arm64-v0.3.4/PDF-Cabin-macOS-arm64.dmg) |
 | macOS Intel | [DMG 0.3.3](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/v0.3.3/PDF-Cabin-macOS-x64.dmg) |
 | Linux x64 | [AppImage 0.3.4](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/linux-v0.3.4/PDF-Cabin-Linux-x86_64.AppImage) |
 | Android 10+ | [Signed APK 0.3.4](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/android-v0.3.4/PDF-Cabin-Android.apk) |
@@ -16,15 +16,17 @@ separately and remains private; this repository does not contain that source.
 
 [Use online](https://pdf-cabin.pages.dev/app/) ·
 [User guide](docs/user-guide.md) · [Features and limits](docs/feature-coverage.md) ·
-[macOS 0.3.3 checksums](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/v0.3.3/SHA256SUMS.txt)
+[Intel Mac 0.3.3 checksums](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/v0.3.3/SHA256SUMS.txt)
 
 [Windows 0.3.4 checksums](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/windows-v0.3.4/SHA256SUMS.txt) · [Windows release notes](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/tag/windows-v0.3.4)
 
 [Linux 0.3.4 checksums](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/linux-v0.3.4/SHA256SUMS.txt) · [Linux release notes](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/tag/linux-v0.3.4)
 
-Windows, Linux, Android and the iOS Home Screen app include the 0.3.4 changes.
-The macOS 0.3.4 update awaits a verified native Mac build; the tested 0.3.3
-Mac downloads remain available.
+[Apple Silicon Mac 0.3.4 checksums](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/download/macos-arm64-v0.3.4/SHA256SUMS.txt) · [Mac release notes](https://github.com/JSolanoDev/pdf-cabin-downloads/releases/tag/macos-arm64-v0.3.4)
+
+Windows, Linux, Apple Silicon Mac, Android and the iOS Home Screen app include
+the 0.3.4 changes. The tested Intel Mac 0.3.3 download remains available until
+a native Intel update passes its checks.
 
 Installers are byte-for-byte copies of the verified release builds. Windows
 builds remain unsigned previews; macOS builds are not notarized. Keep original
