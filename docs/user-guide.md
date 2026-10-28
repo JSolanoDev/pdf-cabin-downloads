@@ -1,5 +1,24 @@
 # PDF Cabin user guide
 
+## Using a phone or tablet
+
+The touch workspace keeps the PDF full-width, with page navigation, zoom and
+thumbnails along the bottom. Pinch the document to zoom its contents; the app
+controls stay the same size. A single-finger swipe scrolls the document, including
+across text in Edit mode. Tap Fit width to return to a comfortable overview.
+
+Tap text or an image to select it. Use the visible **Edit text / Replace image**,
+**Edit options**, **Move object**, and **Delete object** controls. Turn on Move
+object before dragging content, then turn it off to scroll normally again.
+Double-tapping text also opens on-page typing. Apply or cancel a pending edit
+before pinch zooming. Applied edits can be undone with the visible Undo button.
+
+All tools opens a searchable panel with the existing document tools, including
+Open PDF, Rename PDF, combining files, page operations, forms, comments, stamps,
+OCR and exports. Long tool forms and the page organizer scroll within the screen.
+The current browser/OS still determines file pickers, saving and printing. Keep
+an original and inspect saved results; the PDF/font limits below still apply.
+
 In the online workspace, hold **Ctrl** and drag with the left mouse button over the PDF to move around a
 zoomed page. The hand cursor indicates panning. Release the button or Ctrl, or
 press Escape, to stop. Panning changes only the viewport; it does not move PDF
